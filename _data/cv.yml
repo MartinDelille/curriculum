@@ -2,114 +2,114 @@ name: John Doe
 home: jdoe.com
 email: jdoe@gmail.com
 summary:
- text: Magic maker and a hero of yours.
+ text: I am an outgoing and energetic experienced professional, involved in several opensource project 
 
 objective:
- text: Seeking to contribute blood, sweat, and tears. That is all.
+ text: Seeking a career that fits my professional skills, personality, and creativity.
 
 skills:
- - name: Languages
-   items:
-    - name: JavaScript
-    - name: Python
-    - name: Java
-    - name: C++
-    - name: SQL
- - name: Backend
-   items:
-    - name: Node
-    - name: Django
- - name: Frontend
-   items:
-    - name: AngularJS
-    - name: BackboneJS
-    - name: D3
-    - name: JQuery
-    - name: ExtJS
- - name: Standards
-   items:
-    - name: Websockets
-    - name: HTML5 Canvas
-    - name: CSS3
- - name: Testing
-   items:
-    - name: Mocha
-    - name: Karma
-
- - name: Databases
-   items:
-    - name: MongoDB
-    - name: PostgreSQL
-    - name: PostGIS
-    - name: Redis
- - name: Platforms
-   items:
-    - name: AWS
-    - name: Cloud Foundry
-    - name: Digital Ocean
- - name: Mobile
-   items:
-    - name: Android
-    - name: HTML5 Hybrid
- - name: CM
-   items:
-    - name: Git
-    - name: Subversion
+- name: Languages
+  items:
+  - name: C++
+  - name: C
+  - name: C#
+  - name: Assembly
+  - name: HTML
+  - name: CSS
+  - name: Javascript
+  - name: Ruby
+- name: Frameworks
+  items:
+  - name: Qt
+  - name: DotNet
+  - name: MeteorJS
+- name: Library
+  items:
+  - name: BanditCPP
+- name: Testing
+  items:
+  - name: BanditCPP
+  - name: Qt unit tests
+  - name: Visual Studio unit tests
+- name: Tools
+  items:
+  - name: Git
+  - name: FFmpeg
+  - name: Doxygen
+  - name: Subversion
+- name: Tools
+  items:
+  - name: Github
+  - name: Travis-CI
+  - name: FFmpeg
+  - name: Appveyor
+  - name: Coveralls
+  - name: Doxygen
+  - name: Subversion
+  - name: Gitlab
+- name: Architecture
+  items:
+  - name: MacOSX
+  - name: Windows
+  - name: Linux
+  - name: Android
+  - name: iOS
 
 professional:
- - name: Acme Inc.
-   link: http://acme.com
-   location: Nowhere, NY
-   start: 10/1979
-   end: Present
-   title: Code Monkey
-   summary: Been on this sinking ship since before the internet.
-   projects:
+- name: Phonations
+  link: http://www.phonations.com
+  location: Lyon, France
+  start: 03/2012
+  end: Present
+  title: CEO
+  summary: My company sells its expertise in software development and maintenance. My client are mainly in the audiovisual post-production area but I participate in any computer development project. I'm also helping company and individual mastering free opensource software.
+  projects:
+  - name: Joker
+    link: https://github.com/Phonations/Joker
+    description: Joker is a rythmo band tool that help a speaker to sync its voice to a movie picture. It is multiplateform, interoperable and free opensource.
+    skills:
+    - Qt
+    - C++
+    - BanditCPP
+    - Travis-CI
+    - Appveyor
+    - Coveralls
 
-    - name: Koala DSP
-      description: Implemented a unique DSP algorithm to mimic koala bears.
-      skills:
-       - Hardcore C
-       - Hardcore DSP
+  - name: ERytmo
+    link: http://www.dubbing-brothers.com/
+    description: ERytmo is a full dubbing solution used by Dubbing Brothers (the biggest european dubbing company)
+    skills:
+    - DotNet
+    - C#
+    - Change management
+    - Formation
 
-    - name: First Company Website
-      link: http://acme.com/
-      description: Learned HTML and rocked everyone's world.
-      skills:
-       - HTML
-       - Not CSS
-
-
- - name: Buford University
-   link: http://buu.edu
-   location: Elseware, OK
-   start: 12/1966
-   end: 10/1979
-   title: Lab Rat
-   summary: Responsible for labs and stuff.
-   projects:
-
-    - name: Punch Card Optimization
-      description: Since I coded like the wind (even then), I needed a better way to write software
-      skills:
-       - Diplomacy
-       - Reading
-       - Writing
-
+  - name: Cappella
+    link: http://www.cappella.tv
+    skills:
+    - C++
+    - OpenGL
+    - DirectX
+    - Microsoft Foundation Class
+    - Serial device communication
 
 education:
  colleges:
-  - name: Buford University
-    link: http://buu.edu/
-    year: 1966
-    degree: BSCS
+ - name: Chimie Physique Électronique de Lyon
+   link: http://www.cpe.fr
+   year: 2000-2005
+   degree: Master degree in electronique, computer science and communication.
 
-certsAndAwards:
- - name: Advanced Rubber Necking
-   year: 2000
- - name: Crimes and Indigestion
-   year: 2007
+- name: Universidad Politécnica de Madrid
+   link: http://www.upm.es
+   year: 2003-2004
 
-clearance:
- name: Aspiring
-
+#certsAndAwards:
+# - name: Advanced Rubber Necking
+#   year: 2000
+# - name: Crimes and Indigestion
+#   year: 2007
+#
+#clearance:
+# name: Aspiring
+#
