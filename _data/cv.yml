@@ -75,6 +75,14 @@ professional:
     - Appveyor
     - Coveralls
 
+- name: Dubbing Brothers
+  link: http://www.dubbing-brothers.com
+  location: Paris, France
+  start: 11/2008
+  end: 11/2011
+  title: Developer
+  summary: Developping the ERytmo projects
+  projects:
   - name: ERytmo
     link: http://www.dubbing-brothers.com/
     description: ERytmo is a full dubbing solution used by Dubbing Brothers (the biggest european dubbing company)
@@ -84,6 +92,14 @@ professional:
     - Change management
     - Formation
 
+- name: Chinkel
+  link: http://www.chinkel.com
+  location: Paris, France
+  start: 03/2006
+  end: 10/2008
+  title: Developer
+  summary: Developping the Cappella projects
+  projects:
   - name: Cappella
     link: http://www.cappella.tv
     skills:
@@ -102,12 +118,11 @@ education:
  - name: Universidad Politécnica de Madrid
    link: http://www.upm.es
    year: 2003-2004
+   degree: Computer science, electronics and automatisation
 
-#certsAndAwards:
-# - name: Advanced Rubber Necking
-#   year: 2000
-# - name: Crimes and Indigestion
-#   year: 2007
+certsAndAwards:
+ - name: Master degree in electronique, computer science and communication.
+   year: 2005
 #
 #clearance:
 # name: Aspiring
