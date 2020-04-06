@@ -89,8 +89,6 @@ professional:
     - OpenGL
     - Gitlab
     - Gitlab-CI
-
-professional:
 - name: Phonations
   link: https://www.phonations.com
   location: Lyon, France
