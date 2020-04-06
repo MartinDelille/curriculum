@@ -1,14 +1,20 @@
 name: Martin Delille
-home: http://www.phonations.com
-email: martin@phonations.com
+home: https://martindelille.github.io
+email: martin@delille.io
 summary:
- text: I am an outgoing and energetic experienced professional, involved in several opensource project 
+ text: I am an outgoing and energetic experienced professional, involved in several innovating projects in the audiovisual industry 
 
 objective:
  text: Seeking a career that fits my professional skills, personality, and creativity.
 
 skills:
-- name: Languages
+- name: Spoken languages
+  items:
+  - name: French (native)
+  - name: English (fluent)
+  - name: Spanish
+  - name: German
+- name: Programming languages
   items:
   - name: C++
   - name: C
@@ -16,37 +22,36 @@ skills:
   - name: Assembly
   - name: HTML
   - name: CSS
+  - name: Python
+  - name: Go
+  - name: Typescript
   - name: Javascript
   - name: Ruby
 - name: Frameworks
   items:
   - name: Qt
   - name: DotNet
-  - name: MeteorJS
+  - name: VueJS
+  - name: Angular
 - name: Library
   items:
-  - name: BanditCPP
+  - name: FFmpeg
+  - name: OpenGL
+  - name: Boost
 - name: Testing
   items:
   - name: BanditCPP
-  - name: Qt unit tests
   - name: Visual Studio unit tests
 - name: Tools
   items:
   - name: Git
-  - name: FFmpeg
-  - name: Doxygen
-  - name: Subversion
-- name: Tools
-  items:
+  - name: Gitlab
   - name: Github
   - name: Travis-CI
-  - name: FFmpeg
   - name: Appveyor
   - name: Coveralls
   - name: Doxygen
   - name: Subversion
-  - name: Gitlab
 - name: Architecture
   items:
   - name: MacOSX
@@ -56,16 +61,37 @@ skills:
   - name: iOS
 
 professional:
+- name: Lylo Europe
+  link: https://www.lylo.tv
+  location: Paris, France
+  start: 02/2016
+  end: Present
+  title: Scout / Lead developer / Teacher / UX
+  summary: I put my knowledge expertise in the media industry and my technologic knowledge to develop the new tools and workflow of the futur of media localization.
+  projects:
+  - name: RecordR
+    link: https://www.recordr.download
+    description: RecordR is a multiplateform rythmo band tool that help a speaker to sync its voice to a movie picture.
+    skills:
+    - Qt
+    - C++
+    - BanditCPP
+    - FFmpeg
+    - OpenGL
+    - Gitlab
+    - Gitlab-CI
+
+professional:
 - name: Phonations
-  link: http://www.phonations.com
+  link: https://www.phonations.com
   location: Lyon, France
   start: 03/2012
-  end: Present
+  end: 01/2016
   title: CEO
   summary: My company sells its expertise in software development and maintenance. My client are mainly in the audiovisual post-production area but I participate in any computer development project. I'm also helping company and individual mastering free opensource software.
   projects:
   - name: Joker
-    link: https://github.com/Phonations/Joker
+    link: https://github.com/martindelille/Joker
     description: Joker is a rythmo band tool that help a speaker to sync its voice to a movie picture. It is multiplateform, interoperable and free opensource.
     skills:
     - Qt
@@ -76,7 +102,7 @@ professional:
     - Coveralls
 
 - name: Dubbing Brothers
-  link: http://www.dubbing-brothers.com
+  link: https://www.dubbing-brothers.com
   location: Paris, France
   start: 11/2008
   end: 11/2011
@@ -84,7 +110,7 @@ professional:
   summary: Developping the ERytmo projects
   projects:
   - name: ERytmo
-    link: http://www.dubbing-brothers.com/
+    link: https://www.dubbing-brothers.com/
     description: ERytmo is a full dubbing solution used by Dubbing Brothers (the biggest european dubbing company)
     skills:
     - DotNet
@@ -93,7 +119,7 @@ professional:
     - Formation
 
 - name: Chinkel
-  link: http://www.chinkel.com
+  link: https://www.chinkel.com
   location: Paris, France
   start: 03/2006
   end: 10/2008
@@ -112,11 +138,11 @@ professional:
 education:
  colleges:
  - name: Chimie Physique Électronique de Lyon
-   link: http://www.cpe.fr
+   link: https://www.cpe.fr
    year: 2000-2005
    degree: Master degree in electronique, computer science and communication.
  - name: Universidad Politécnica de Madrid
-   link: http://www.upm.es
+   link: https://www.upm.es
    year: 2003-2004
    degree: Computer science, electronics and automatisation
 
