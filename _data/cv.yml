@@ -2,12 +2,21 @@ name: Martin Delille
 home: https://martindelille.github.io
 email: martin@delille.io
 summary:
- text: I am an outgoing and energetic experienced professional, involved in several innovating projects in the audiovisual industry 
+ text: I am an outgoing and energetic experienced professional, involved in several innovating projects in the audiovisual industry.
 
 objective:
  text: Seeking a career that fits my professional skills, personality, and creativity.
 
 skills:
+- name: Project lead
+  items:
+  - name: Need analysis
+  - name: Project specification
+  - name: Production process optimisation
+  - name: Change management
+  - name: Teaching
+  - name: Support
+  - name: Maintenance
 - name: Spoken languages
   items:
   - name: French (native)
