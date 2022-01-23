@@ -1,3 +1,5 @@
+DEPRECATED: This repository has been merged into [my website](https://github.com/martindelille/martindelille.github.io)
+
 # Jekyll CV Generator
 Responsive CV generator using Jekyll and Bootstrap 3
 
